@@ -1,0 +1,42 @@
+.hed img {
+    width: 100%;
+    height: 800px;
+    margin-bottom: 90px;
+}
+ .hed b{
+    margin-left: 110px;
+ }
+ 
+ .hed h1{
+    margin-left: 110px;
+ } 
+
+ .hed p{
+    margin-left: 110px;
+    width: 1600px;
+ }
+ .section .col {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 90px;
+    margin-bottom: 100px;
+    
+ }
+ 
+ .section .col2 {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   margin-left: 90px;
+   
+}
+
+.section .col .box p {
+   width: 400px;
+}
+
+.section .col2 .box p {
+   width: 400px;
+}
